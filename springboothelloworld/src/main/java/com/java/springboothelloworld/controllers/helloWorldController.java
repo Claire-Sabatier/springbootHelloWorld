@@ -11,7 +11,7 @@ public class helloWorldController {
         produces = "text/plain"
     )
     public String getHelloWorld(){
-        return "Hello World ! This is me";
+        return "Hello World !";
     }
 
 
